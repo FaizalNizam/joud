@@ -1,0 +1,51 @@
+
+{
+    "formData":[
+        {
+            "label":"Email",
+            "key":"email",
+            "type":"text"
+        },
+        {
+            "label":"Phone Number",
+            "key":"phoneNumber",
+            "type":"text"
+        },
+        {
+            "label":"Business Name",
+            "key":"businessName",
+            "type":"text"
+        },
+        {
+            "label":"Business Type",
+            "key":"businessType",
+            "type":"select"
+        },
+        {
+            "label":"Business Category ",
+            "key":"businessCategory",
+            "type":"select"
+        }
+    ],
+
+    "fileData":[
+        { 
+            "label":"Commercial Registration Number",
+            "key":"registrationNumber",
+            "type":"text"
+        },
+        {
+            "label":"Copy of Cr Document",
+            "key":"crDocument",
+            "type":"file"
+        },
+        {
+            "label":"Copy of Qatar Id",
+            "key":"qatarId",
+            "type":"file"
+        },
+        {
+            "type":"checkBox"
+        }
+    ]
+}
